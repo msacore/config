@@ -1,3 +1,3 @@
-module config
+module github.com/msacore/config
 
-go 1.18
+go 1.17
